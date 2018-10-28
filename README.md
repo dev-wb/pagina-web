@@ -1,2 +1,7 @@
 # pagina-web
- Este el repositorio con el código de la página web
+- landing page
+- diseño responsivo
+- slider automatico
+- redes sociales
+- html5, css3, jquery
+
